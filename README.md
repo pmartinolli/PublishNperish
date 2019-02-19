@@ -73,7 +73,7 @@ Ces éléments de game design sont issus des jeux suivants :
 
 Morrison, Chris, et Jane Secker. 2017. « The Publishing Trap ». https://copyrightliteracy.org/resources/the-publishing-trap/ (18 avril 2018).
 
-Parker, Catherine. « Open Access: The Game of Open Access ». //hud.libguides.com/openaccess/GameOfOpenAccess (12 décembre 2018).
+Parker, Catherine. « Open Access: The Game of Open Access ». http://hud.libguides.com/openaccess/GameOfOpenAccess (12 décembre 2018).
 
 « SubPoena: Un jeu sérieux sur le plagiat ». http://doc-pedagogie.u-bordeaux.fr/ (27 novembre 2018).
 
