@@ -77,9 +77,6 @@ Parker, Catherine. « Open Access: The Game of Open Access ». http://hud.libg
 
 « SubPoena: Un jeu sérieux sur le plagiat ». http://doc-pedagogie.u-bordeaux.fr/ (27 novembre 2018).
 
-« The Game of Open Access ». https://www.rri-tools.eu/-/the-game-of-open-access (27 novembre 2018).
-
-
 
 
 
