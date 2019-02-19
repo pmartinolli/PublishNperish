@@ -33,8 +33,27 @@ Matériel non fournis : un trombone et un stylo par étudiant.
 * Certaines actions rapportent des points de (R)éputations. Plus vous en avez, mieux c'est.
 
 
+## Variante « P&P Dilemma » 
+
+Il s'agit de jouer un personnage à plusieurs joueurs (avec une seule fiche).
+
+Buts pédagogiques : 
+
+* Plus de communication explicite entre les joueurs sur les choix proposés. 
+
+* Plus d'échanges et de négociation.
+
+
+# Variante « P&P Versus »
+
+Il s'agit de faire s'opposer deux équipes de joueurs. Le jeu est différent puisqu'il va falloir répondre juste et le plus rapidement à des questions. Le public peut aider.
+
+(en développement)
+
 
 ## Ludographie
+
+Ces éléments de game design sont issus des jeux suivants : 
 
 * Événements, héritage post-mortem, découpage en tranches de vie : *The Publishing Trap*
 
@@ -47,6 +66,20 @@ Matériel non fournis : un trombone et un stylo par étudiant.
 * Trombone sur la jauge de temps : compteur de balles de *Deadlands RPG*
 
 * Unités de temps à investir : règle-maison de Cyril Denoual pour *SLA Industries*
+
+## Autres jeux sur la publication scientifique
+
+« Copyright the Card Game ». 2015. UK Copyright Literacy. https://copyrightliteracy.org/resources/copyright-the-card-game/ (18 avril 2018).
+
+Morrison, Chris, et Jane Secker. 2017. « The Publishing Trap ». https://copyrightliteracy.org/resources/the-publishing-trap/ (18 avril 2018).
+
+Parker, Catherine. « Open Access: The Game of Open Access ». //hud.libguides.com/openaccess/GameOfOpenAccess (12 décembre 2018).
+
+« SubPoena: Un jeu sérieux sur le plagiat ». http://doc-pedagogie.u-bordeaux.fr/ (27 novembre 2018).
+
+« The Game of Open Access ». https://www.rri-tools.eu/-/the-game-of-open-access (27 novembre 2018).
+
+
 
 
 
