@@ -1,4 +1,4 @@
-#Publions &amp; Périssons (Publish &amp; Perish)
+# Publions &amp; Périssons (Publish &amp; Perish)
 
 (brouillon / early draft)
 
