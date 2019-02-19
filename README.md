@@ -8,7 +8,7 @@ Publish &amp; Perish : a role-playing game to check comprehension of learners af
 
 ## Matériel
 
-- Feuille de score individuelle (PDF, fr)
+- [Feuille de score individuelle](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-points-v1.2.fr.pdf) (PDF, fr)
 
 - Jeu à dérouler (PDF, fr)
 
