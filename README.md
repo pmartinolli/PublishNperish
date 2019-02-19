@@ -34,7 +34,19 @@ Matériel non fournis : un trombone et un stylo par étudiant.
 
 
 
+## Ludographie
 
+* Événements, héritage post-mortem, découpage en tranches de vie : *The Publishing Trap*
+
+* Points de stress : *FATE RPG*
+
+* Progression de la réputation : système d'XP de *D&D*
+
+* Incarner un personnage : *D&D*
+
+* Trombone sur la jauge de temps : compteur de balles de *Deadlands RPG*
+
+* Unités de temps à investir : règle-maison de Cyril Denoual pour *SLA Industries*
 
 
 
