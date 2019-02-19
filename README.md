@@ -2,7 +2,7 @@
 
 (brouillon / early draft)
 
-Un jeu de rôle de salle de classe pour vérifier l'apprentissage sur les processus de publication academic acquis en classe inversée
+Un jeu de rôle de vérification de l'apprentissage sur les processus de publication académique acquis en classe inversée
 
 Publish &amp; Perish : a role-playing game to check comprehension of learners after a flipped classroom on academic publishing
 
