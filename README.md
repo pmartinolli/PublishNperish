@@ -110,6 +110,8 @@ Parker, Catherine. « Open Access: The Game of Open Access ». http://hud.libg
 
 « SubPoena: Un jeu sérieux sur le plagiat ». http://doc-pedagogie.u-bordeaux.fr/ (27 novembre 2018).
 
+Jeu GopenDoRe : le jeu coopératif pour acquérir des bonnes pratiques de gestion et de partage des données de la recherche. doi:10.5281/zenodo.2657316.
+
 
 
 
