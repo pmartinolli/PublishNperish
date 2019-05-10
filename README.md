@@ -10,7 +10,7 @@ Publish &amp; Perish : a role-playing game to check comprehension of learners af
 
 - [Feuille de score individuelle](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-points-v1.2.fr.pdf) (PDF, fr)
 
-- [Déoulement du jeu](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.5.fr.pdf) (PDF, fr)
+- [Déroulement du jeu](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.5.fr.pdf) (PDF, fr)
 
 Matériel non fournis : un trombone et un stylo par étudiant.
 
@@ -62,7 +62,7 @@ Il s'agit de faire s'opposer deux équipes de joueurs. Le jeu est différent pui
 
 ## Ludographie
 
-Ces éléments de game design sont issus des jeux suivants : 
+Les éléments de game design sont issus des jeux suivants : 
 
 * Événements, héritage post-mortem, découpage en tranches de vie : [*The Publishing Trap*](https://copyrightliteracy.org/resources/the-publishing-trap/ )
 
@@ -92,7 +92,7 @@ Ces éléments de game design sont issus des jeux suivants :
 
 * Used by / Utilisé par  : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058)
 
-* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [Les Chroniques d'Altaride no. 42, p. 56-58](http://www.altaride.com/spip/spip.php?article1410).
+* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [Les Chroniques d'Altaride no. 42, p. 56-58](http://www.altaride.com/spip/spip.php?article1410), Tribune CI.
 
 * Promoted through / Diffusé via : 
 
@@ -102,15 +102,15 @@ Ces éléments de game design sont issus des jeux suivants :
 
 ## Autres jeux sur la publication scientifique
 
-« Copyright the Card Game ». 2015. UK Copyright Literacy. https://copyrightliteracy.org/resources/copyright-the-card-game/ (18 avril 2018).
+« [Copyright the Card Game](https://copyrightliteracy.org/resources/copyright-the-card-game/). » 2015. Paul Bond. UK Copyright Literacy.  (18 avril 2018).
 
-Morrison, Chris, et Jane Secker. 2017. « The Publishing Trap ». https://copyrightliteracy.org/resources/the-publishing-trap/ (18 avril 2018).
+« [The Publishing Trap](https://copyrightliteracy.org/resources/the-publishing-trap/). » 2017. Chris Morrison, Jane Secker. UK Copyright Literacy.  (18 avril 2018).
 
-Parker, Catherine. « Open Access: The Game of Open Access ». http://hud.libguides.com/openaccess/GameOfOpenAccess (12 décembre 2018).
+« [Open Access: The Game of Open Access](http://hud.libguides.com/openaccess/GameOfOpenAccess). » 2018. Catherine Parker. University of Huddersfield.
 
-« SubPoena: Un jeu sérieux sur le plagiat ». http://doc-pedagogie.u-bordeaux.fr/ (27 novembre 2018).
+« [SubPoena: Un jeu sérieux sur le plagiat](http://doc-pedagogie.u-bordeaux.fr/). » 2018. Service de coopération documentaire de la Direction de la documentation, Bibliothèques universitaires de Bordeaux.
 
-Jeu GopenDoRe : le jeu coopératif pour acquérir des bonnes pratiques de gestion et de partage des données de la recherche. doi:10.5281/zenodo.2657316.
+« [Jeu GopenDoRe : le jeu coopératif pour acquérir des bonnes pratiques de gestion et de partage des données de la recherche](https://zenodo.org/record/2657316). » 2019. Valérie Gadrat, Yvette Lafosse, Claire Sowinski, Coralie Wysoczynski. DoRANum. doi: 10.5281/zenodo.2657316.
 
 
 
