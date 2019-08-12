@@ -12,7 +12,7 @@ Un jeu de rôle présentiel de vérification des apprentissages acquis en classe
 
 - [Déroulement du jeu](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.5.fr.pdf) (PDF, fr) / *full game sequence to display on the classroom screen*
 
-Matériel non fournis : un trombone et un stylo par étudiant. / *Other material needed : one thumbnail and one pen per student).
+Matériel non fournis : un trombone et un stylo par étudiant. / *Other material needed : one thumbnail and one pen per student).*
 
 ## En quelques mots / *TL;DR*
 
@@ -23,7 +23,7 @@ Au début, chaque étudiant reçoit une feuille avec 3 jauges : une jauge de (R)
 
 *The goal of this activity is to verify the knowledge of the students after a flipped classroom on academic publishing (open access, ...). They play themselves from the moment they enter a MSc program until the moment they become assistant professor, and event until 100 years after a long career and after their death (that's why the game is named Publish AND Perish).*
 
-*The game can be played by a small group (5-20) or a big group (200+), in person, with the presence and the facilitation of a teacher. It lasts approx. 45 minutes but can be extended depending on the feedback and the exchanges with the students.
+*The game can be played by a small group (5-20) or a big group (200+), in person, with the presence and the facilitation of a teacher. It lasts approx. 45 minutes but can be extended depending on the feedback and the exchanges with the students.*
 
 *At the beginning, each student receive a individual tracking sheet with 3 tracks: one track of (R)eputation to score the maximum points possible, one track of (T)ime to buy actions, and one track of (S)tress to buy actions if there is no (T)ime left.*
 
