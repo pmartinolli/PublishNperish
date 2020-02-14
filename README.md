@@ -10,7 +10,7 @@ Un jeu de rôle présentiel de vérification des apprentissages acquis en classe
 
 - [Feuille de score individuelle](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-points-v1.2.fr.pdf) (PDF, fr) / *individual tracking sheet*
 
-- [Deroulement du jeu en Markdown dynamique](https://hackmd.io/@pascaliensis/Bk2-yv4XI#/) [En PDF (pas à jour)](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.5.fr.pdf) / *full game sequence to display on the classroom screen*
+- [Déroulement du jeu v1.6 en Markdown dynamique sur Hackmd.io](https://hackmd.io/@pascaliensis/Bk2-yv4XI#/) ou [code source en Markdown](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.6.fr.md) ou [en PDF (mais v1.5 pas à jour)](https://github.com/pmartinolli/TM-publishnperish/blob/master/files/pnp-deroulement-v1.5.fr.pdf) / *full game sequence to display on the classroom screen*
 
 Matériel non fournis : un trombone et un stylo par étudiant. / *Other material needed : one thumbnail and one pen per student).*
 
