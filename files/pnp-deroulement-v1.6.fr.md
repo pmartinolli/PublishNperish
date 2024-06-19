@@ -1,11 +1,12 @@
 
-# Publions & Périssons
+# PLU6058 : 
+# *Publish OR/AND Perish*
+v1.7
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/186487717@N05/49535234741/in/dateposted-public/" title="publishnperish-logo"><img src="https://live.staticflickr.com/65535/49535234741_b56ca04d67_o.png" width="355"  alt="publishnperish-logo"></a>
+{|Pseudo-jeu de rôle de vérification des apprentissages acquis}
+{|Pascal Martinolli, « PLU6058 : *Publish OR/AND Perish* », [CC-BY](https://creativecommons.org/licenses/by-sa/4.0/deed.en), 2017-2024.}
+{|https://hackmd.io/@pascaliensis/ByPbA8aeA}
 
-*Publish & Perish*
-
-Pascal Martinolli, CC-BY, 2017-2020.
 
 ---
 
@@ -17,27 +18,22 @@ Pascal Martinolli, CC-BY, 2017-2020.
 
 ---
 
-## Vous apprenez à utiliser Zotero 
-
-ou EndNote 
-
-* Coût 1T ?
-
----
-
-## Vous apprenez à utiliser Zotero 
+## Vous avez appris à utiliser Zotero 
 
 ou EndNote
 
-* Coût 1T : Recevez +3T 
+* **Recevez +3T** 
 
 ---
+
 
 # Phase exploratoire  :earth_africa:
 
 ---
 
 ## J’ai lu les ouvrages de référence de mon domaine  :books:
+
+Encyclopédies spécialisées, Oxford bibliographies, Oxford Handbooks, Sage Research Methods,...
 
 * Recevez +1T
 
@@ -49,16 +45,30 @@ ou EndNote
 
 ---
 
-## J’interviens dans une journée d’étude de mon département
+## Recherche de documents
 
-* Coûte 1T ?
+- J'utilise le moins de mot pour lancer des recherches
+- Je documente toutes mes démarches de recherche : mots-clés, bases de données, résultats,...
+
+* Recevez +1T
 
 ---
 
 ## J’interviens dans une journée d’étude de mon département
 
-* Coûte 1T
-* Recevez +1R
+Présentation de 20 minutes + 10 minutes de questions.
+
+* **Coûte -1T ?**
+
+---
+
+## J’interviens dans une journée d’étude de mon département
+
+Présentation de 20 minutes + 10 minutes de questions.
+
+* Coûte 1T >> **Recevez +1R**
+
+En route pour la gloire! 
 
 ---
 
@@ -66,51 +76,44 @@ ou EndNote
 
 ---
 
-## Je maîtrise déjà Zotero 
 
-ou EndNote
+## Je blogue ma recherche
 
-* Recevez  +1T 
+* Coûte -1T ?
 
 ---
 
 ## Je blogue ma recherche
 
-* Coûte 1T ?
-
----
-
-## Je blogue ma recherche
-
-* Coûte 1T
-* Recevez rien
+* Coûte -1T >> Ne recevez rien.
 
 (C'est normal, au début on n'est pas connu)
 
 ---
 
-## Je fais une demande de bourse
+## Je rédige une demande de bourse
 
-* Coûte 2T ?
-
----
-
-## Je fais une demande de bourse
-
-* Coûte 2T
-* Recevez +1R
+* Coûte -1T ?
 
 ---
 
-## Je fais une bibliographie systématique de qualité 
+## Je rédige une demande de bourse
 
-* Coûte 1T ?
+* Coûte -1T >> **Recevez +1R**
+
+Bravo, c'est mérité ! 
 
 ---
 
-## Je fais une bibliographie systématique de qualité 
+## Je conduis une revue de littérature de qualité sur mon sujet 
 
-* Récupérez +1T
+* Coûte -3T ?
+
+---
+
+## Je conduis une revue de littérature de qualité sur mon sujet 
+
+* Récupérez +2T
 * Et, si vous la bloguez : +1R
 
 ---
@@ -121,52 +124,52 @@ ou EndNote
 
 ## Je rédige ma maîtrise
 
-* Coût obligatoire: 3T
+* Coût obligatoire: -3T
 
 ---
 
-## Vous maîtrisez les alertes
+## Vous utilisez les alertes
 
-* Recevez +2T
-
----
-
-## Je publie un article dans une revue de cycle supérieur
-
-* Coûte 1T ?
-
+* Recevez +1T
 
 ---
 
 ## Je publie un article dans une revue de cycle supérieur
 
-* Coûte 1T ?
-* +1R
+* Coûte -1T ?
+
+
+---
+
+## Je publie un article dans une revue de cycle supérieur
+
+* Coûte -1T >> **+1R**
 
 ---
 
 ## Je blogue ma recherche
 
-* Coûte 1T ?
+* Coûte -1T ?
 
 ---
 
 ## Je blogue ma recherche
 
-* Coûte 1T
-* Recevez +3T
+* Coûte -1T >> **Récupérez +1T**
+
+(bloguer = bonne stratégie antiprocrastrination)
 
 ---
 
 ## Je rédige ma maîtrise
 
-* Coûte obligatoire : 3T
+* Coûte obligatoire : -3T
 
 ---
 
 ## Vous allez à une retraite de rédaction *Thésez-vous*
 
-* Recevez +2T
+* Recevez +1T
 
 ---
 
@@ -176,37 +179,7 @@ ou EndNote
 
 * Recevez  +1T 
 
----
-
-## Vous maîtrisez Zotero 
-
-ou EndNote
-
-* Recevez  +3T 
-
----
-
-## Je rédige ma maîtrise
-
-* Coût obligatoire : 3T
-
----
-
-# Maîtrise terminée !  :mortar_board:
-
-* Recevez   +5R
-
----
-
-# Candidature pour doctorat
-
-* Réinitialisation du compteur Temps = minimum 3
-
----
-
-## J’applique pour des programmes de doctorat
-
-* Coûte 3T ?
+Voir les formations *Rédiger un mémoire ou une thèse avec le modèle de document Word* des Bibliothèques
 
 ---
 
@@ -218,40 +191,51 @@ ou EndNote
 
 ---
 
-# Première année de doctorat
+## Je rédige ma maîtrise
+
+* Coût obligatoire : -4T
 
 ---
 
-## Vous maîtrisez les alertes
+# Maîtrise terminée !  :mortar_board:
 
-* Recevez +1T
+* **Recevez +5R**
+
+---
+
+## J’applique pour des programmes de doctorat
+
+* Coût obligatoire : -3T
+
+---
+
+
+# Première année de doctorat
 
 ---
 
 ## Je blogue ma recherche
 
-* Coûte rien
-* Recevez +1R
+* Coûte rien : **Recevez +1R**
 
 ---
 
 ## J’organise une journée d’étude
-* Coûte 2T ?
+* Coûte -3T ?
 
 ---
 
 ## J’organise une journée d’étude
-* Coûte 2T ?
-* Recevez +2R
+* Coûte -3T >> **Recevez +2R**
 
 ---
 
 ## Virus informatique majeur  :scream:
 
 La plupart de vos données sont perdues à jamais.
-Vous avez des stratégies de sauvegarde ?
+Vous avez des stratégies de sauvegarde ? Lesquelles par exemple ?
 
-* Oui : +4T
+* Oui : bravo!
 * Non : +5S
 
 ---
@@ -262,82 +246,143 @@ Vous avez des stratégies de sauvegarde ?
 
 ## Vous maîtrisez Zotero 
 
-et vous avez noté toutes vos démarches de recherche 
+- et vous avez noté toutes vos démarches de recherche
+- et vous avex un thésaurus personnel de mots-clés contrôlés 
 
-* Recevez  +3T 
+* **Recevez +1T**
 
 ---
 
-# Doctorat – recherche & rédaction 
+## Vous avez commencé à rédiger un PGD
+
+(Plan de gestion de données de recherche)
+
+* **Recevez +2T**
+
+Vous savez où vous allez et comment y aller. 
+
+---
+
+## Vous faites des listes de revues
+
+- Où publier ?
+- Revues prédatrices
+- Revues lentes à la « retraction » 
+- ...
+
+* **Recevez +1T**
+
+
+Faites aussi des listes de chercheurs, de maisons d'édition, d'Universtité,... avec des notes. 
+
+
+---
+
+# Je réutilise une série d'images sous copyright dans une réunion départementale
+
+- Oui 
+- Non
+
+---
+
+
+## Je réutilise une série d'images sous copyright dans une réunion départementale
+
+- Oui : +1R 
+
+Un professeur (qui ne comprenait rien avant de voir les images) vous ajoute à son équipe.
+
+Il n'y a pas de diffusion, donc tant qu'on cite les images ça devrait être OK. 
+
+---
+
+## Vous assistez à une formation sur le droit d’auteur
+
+* Coûte -1T ?
+
+---
+
+## Vous assistez à une formation sur le droit d’auteur
+
+* Coûte -1T >> **Recevez +1T**
+
+Vous apprenez que vous avez des droits d’auteur complets sur tous vos travaux universitaires !
+
+---
+
+# Doctorant en rédaction 
 
 * Recevez +1R
 
 ---
 
-## Vous vous êtes créé des rituels pour vous motiver/concentrer
-(aller à la bibliothèque, faire les choses dans un certain ordre, rythme précis et minuté,…)
-
-* Recevez +1T
-
----
-
 ## Je rédige mon doctorat
 
-* Coût obligatoire: 4T
+* Coût obligatoire: -5T
 
 ---
 
-## Une revue avec comité de lecture me propose de publier une recherche
+## Une revue avec comité de lecture me propose de publier une recherche dont j'ai discuté dans un congrès
 
-* Coûte 2T ?
+* Coûte -2T ?
 
 ---
 
-## Une revue avec comité de lecture me propose de publier une recherche
+## Une revue avec comité de lecture me propose de publier une recherche dont j'ai discuté dans un congrès
 
-### * :exclamation: Revue prédatrice 
+### :exclamation: Revue prédatrice :exclamation:
 
-### * :skull: Perdez -10R ! :skull: 
+### :skull: Perdez -10R ! :skull: 
+### +3S 
 
 ---
 
 ## Vous maîtrisez les alertes
 
-* Recevez +2T
+* Recevez +1T
 
 ---
 
 ## Je fais une demande de bourse
 
-* Coûte 2T ?
+* Coûte -2T ?
 
 
 ---
 
 ## Je fais une demande de bourse
 
-* Coûte 2T
-* Recevez +2R
+* Coûte -2T >> **Recevez +2R**
 
 ---
 
 ## Je rédige mon doctorat
 
-* Coût obligatoire : 4T
-
----
-
-## Vous maîtrisez Zotero 
-
-ou EndNote
-
-* Recevez  +1T 
+* Coût obligatoire : -5T
 
 ---
 
 ## Vous allez à une retraite de rédaction *Thésez-vous*
 
-* Recevez +2T
+* Recevez +1T
+
+---
+
+## Je contribue à la page Wikipédia sur mon sujet
+
+* Coût -1T
+
+* Recevez toute ma gratitude pour cette contribution au bien commun 
+
+---
+
+## Un collègue de laboratoire se vante
+
+de la taille de son h-index
+
+- Vous l'admirez.
+- Vous lui expliquez poliment les défauts des indicateurs bibliométriques en général et de celui-ci en particulier. 
+- Vous l'ignorez. 
 
 ---
 
@@ -345,21 +390,23 @@ ou EndNote
 
 m’écrit pour me propose de présenter mon sujet à un public très divers dans un contexte multidisciplinaire
 
-* Coûte 3T ?
+* Coûte -3T ?
 
 ---
 
 ## Une conférence à Venise
 
-### :exclamation: Conférence prédatrice
+### :exclamation: Conférence prédatrice :exclamation:
 
-* Perte de temps -5T
+* Perte de temps et d'argent -5T
+
+Mais la ville est très jolie.
 
 ---
 
 ## Je rédige mon doctorat
 
-* Coût obligatoire : 4T
+* Coût obligatoire : -5T
 
 ---
 
@@ -367,21 +414,38 @@ m’écrit pour me propose de présenter mon sujet à un public très divers dan
 
 (Titre 1, Titre 2, table des matière, liste des tableaux, etc.)
 
-* Recevez  +3T 
+* Recevez  +1T 
 
 ---
 
 ## Vol de votre ordinateur  :scream:
-La plupart de vos données sont perdues à jamais. Vous avez des stratégies de sauvegarde ?
+La plupart de vos données sont perdues à jamais. Vous avez des stratégies de sauvegarde ? Lesquelles par exemple ?
 
-* Oui : +4T
+* Oui : bravo!
 * Non : +5S
 
 ---
 
 ## Je finalise ma thèse de doctorat
 
-* Coûte 2T
+* Coûte -2T
+
+---
+
+
+## Je soutiens mon doctorat avec des images sous copyright
+
+* Oui
+* Non
+
+---
+
+## Je soutiens mon doctorat avec des images sous copyright
+
+* Oui : +2T 
+
+Ça vous évite de tout refaire les images, les schémas, les graphiques,... Tant qu'il n'y a pas diffusion, c'est OK.
+
 
 ---
 
@@ -391,57 +455,37 @@ La plupart de vos données sont perdues à jamais. Vous avez des stratégies de 
 
 * :cocktail: :airplane: :sailboat:Prenez des vacances 
 
-* Compteur Temps: minimum = 3
+* Compteur Temps: actuel ou rehaussé à 3
 
 ---
 
-## Vous soumettez votre thèse en PDF/A
 
-* Recevez +1T
+## Vous soumettez votre thèse sur Papyrus, en PDF/A, avec ORCID
 
----
-
-## Vous soumettez votre thèse sur Papyrus avec OrcID
+Sans images sous copyright, sans informations personnelles (courriels, numéros de téléphone,...), ...
 
 * Recevez +5R
 
 ---
 
-## Est-ce que votre équipe de recherche vous recommande de mettre un embargo sur votre thèse ?
 
-* Oui : +1R
-* Non : +3R
 
----
 
-## Vous assistez à une formation sur le droit d’auteur
+## Je transforme une partie de ma thèse en
 
-* Coûte 1T ?
+* Un chapitre dans une presse universitaire : Coûte **-2T**
 
----
-
-## Vous assistez à une formation sur le droit d’auteur
-
-* Coûte 1T
-* Recevez +1T
-
-Vous apprenez que vous avez des droits d’auteur complets sur tous vos travaux universitaires !
+* Un article dans une revue à comité de lecture : Coûte **-5T**
 
 ---
 
 ## Je transforme une partie de ma thèse en
 
-* Un chapitre dans une presse universitaire : Coûte 2T
+* Un chapitre dans une presse universitaire : Coûte -2T
+  * **+ 4R**
 
 * Un article dans une revue à comité de lecture : Coûte 5T
-
----
-
-## Je transforme une partie de ma thèse en
-
-* Un chapitre dans une presse universitaire : +4R
-
-* Un article dans une revue à comité de lecture : +15R
+  * **+ 15R**
 
 ---
 
@@ -451,46 +495,47 @@ Vous apprenez que vous avez des droits d’auteur complets sur tous vos travaux 
 
 ## Je fais une demande de bourse
 
-* Coûte 2T ?
+* Coûte -3T 
 
 ---
 
 ## Je fais une demande de bourse
 
-* Coûte 2T
-* Recevez +2R
+* Coûte -3T >> Recevez +2R
 
 ---
 
 ## Vous gérez votre profil Google Scholar
 
 * Coûte 0T
-* Recevez +2R
+* **Recevez +2R**
 
 ---
 
 ## Une revue avec comité de lecture 
 
-m’écrit un courriel et me propose de publier une recherche de mon choix
+m’écrit un courriel et me propose de publier une traduction en anglais d'un article que j'ai publié en français
 
-* Coûte 2T
+* Coûte -2T
 
 ---
 
+Une revue avec comité de lecture m’écrit un courriel et me propose de publier une traduction en anglais d'un article que j'ai publié en français
+
 ## :skull: Revue prédatrice! :skull: 
 
-Une revue avec comité de lecture m’écrit un courriel et me propose de publier une recherche de mon choix
+## :skull: Perdez -10R ! :skull: 
 
-* :skull: Perdez -10R ! :skull: 
+## +5S
 
 ---
 
 ## Votre disque dur explose  :scream:
 
 La plupart de vos données sont perdues à jamais.
-Vous avez des stratégies de sauvegarde ?
+Vous avez des stratégies de sauvegarde ? 
 
-* Oui : +4T
+* Oui : Bravo! 
 * Non : +5S
 
 ---
@@ -503,62 +548,53 @@ Vous avez des stratégies de sauvegarde ?
 
 ## :exclamation: Maison d’édition douteuse:
 
-* perte de droit d’auteur : -5T
-* -2R
+* perte de droit d’auteur : 
+  * **- 5T**
+  * **- 2R**
 
 ---
 
-## Vous maîtrisez les alertes
 
-* Recevez +1T
+Vous avez mis un embargo sur votre thèse et
 
----
+## vous convainquez une maison d’édition réputée de faire un livre de ma thèse
 
-## Vous maîtrisez Zotero ou EndNote (avec un thésaurus)
-
-* Recevez  +1T 
+* Coûte -4T ?
 
 ---
 
-Si vous avez mis un embargo sur votre thèse :
+Vous avez mis un embargo sur votre thèse et
 
-## Je convainc une maison d’édition réputée de faire un livre de ma thèse
+## vous convainquez une maison d’édition réputée de faire un livre de ma thèse
 
-* Coûte 4T ?
-
----
-
-Si vous avez mis un embargo sur votre thèse :
-
-## Je convainc une maison d’édition réputée de faire un livre de ma thèse
-
-* Recevez +5R
+* Coûte -4T >> **Recevez +5R**
 
 ---
 
 ## Je conduis une recherche intéressante, je la publie dans...
 
-* Un chapitre dans une presse universitaire : Coûte 2T
+* Un chapitre dans une presse universitaire : Coûte **-2T**
 
-* Un article dans une revue à comité de lecture : Coûte 5T
+* Un article dans une revue à comité de lecture : Coûte **-5T**
 
 ---
 
 ## Je conduis une recherche intéressante, je la publie dans...
 
-* Un chapitre dans une presse universitaire : +4R
 
-
-* Un article dans une revue à comité de lecture : +15R
+* Un chapitre dans une presse universitaire : Coûte -2T
+  * **+5 R**
+* Un article dans une revue à comité de lecture : Coûte -5T
+  * **+17 R**
 
 
 ---
 
 ## Un collègue vous suggère de mettre tous vos travaux sur ResearchGate
 
-Non, je l’ai déjà fait dans le dépôt institutionnel : +1T
+Non, je l’ai déjà fait dans le dépôt institutionnel : **+1T**
 
-Un autre collègue remarque que c’est une enfreinte au copyright : -1R
+(attention à ne pas enfreindre de  :copyright:)
 
 ---
 
@@ -580,18 +616,20 @@ Un autre collègue remarque que c’est une enfreinte au copyright : -1R
 
 ## Vous avez déposé vos travaux les plus importants dans Papyrus, le dépôt institutionnel de l’UdeM
 
-* Recevez +5R
+* **Recevez +5R**
+
+Vos descendants naturels (ou "spirituels") sont fiers de vous ! 
 
 ---
 
 ## Vous avez systématiquement publié des PDF/A
 
-* Recevez +3R
+* **Recevez +3R**
+
+Dans 100 ans on peut encore lire ce format standardisé et ouvert. Ce qui n'est pas le cas pour les autres PDF.
 
 ---
 
-## Merci d’avoir joué 
+## Merci d’avoir joué !
 
-## à *Publions & Périssons* ! 
-
-Pascal Martinolli, CC-BY, 2017-2020.
+à *Publish OR/AND Perish*, Pascal Martinolli, [CC-BY](https://creativecommons.org/licenses/by-sa/4.0/deed.en), 2017-2024.
